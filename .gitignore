@@ -47,6 +47,17 @@ coverage.xml
 *.mo
 *.pot
 
+# Backup, log files and compiled sources
+*.*~
+*.bak
+*.log
+*.ogg
+*.ogv
+*.pyc
+*.swp
+*.wav
+*.avi
+
 # Django stuff:
 *.log
 
